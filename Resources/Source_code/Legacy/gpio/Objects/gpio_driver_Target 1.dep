@@ -1,0 +1,10 @@
+Dependencies for Project 'gpio_driver', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\Driver\hal_gpio_driver.c)(0x6807A487)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Driver-I.\RTE\_Target_1-IC:\Keil_v5\ARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\Packs\Keil\STM32F4xx_DFP\3.0.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_-o .\objects\hal_gpio_driver.o --omf_browse .\objects\hal_gpio_driver.crf --depend .\objects\hal_gpio_driver.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x67961903)
+I (Driver\hal_gpio_driver.h)(0x6807A487)
+F (.\Driver\hal_gpio_driver.h)(0x6807A487)()
+F (.\UserApp\led.c)(0x6807A487)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Driver-I.\RTE\_Target_1-IC:\Keil_v5\ARM\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\Packs\Keil\STM32F4xx_DFP\3.0.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x67961903)
+I (.\Driver\hal_gpio_driver.h)(0x6807A487)
+F (.\UserApp\led.h)(0x6807A487)()
